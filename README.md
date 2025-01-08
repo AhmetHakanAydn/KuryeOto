@@ -1,4 +1,4 @@
-Kurye Şirketi Otomasyonu 
+C++ ile Kurye Şirketi Otomasyonu 
 
 Bilgi Giriş
 
